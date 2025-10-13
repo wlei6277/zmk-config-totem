@@ -18,7 +18,7 @@
 #define FWD LG(RBKT)
 
 &sk {
-    release-after-ms = <300>;
+    release-after-ms = <1000>;
     quick-release;
 };
 
